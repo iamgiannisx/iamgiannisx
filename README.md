@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/iamgiannisx?template=classic&config.timezone=Europe%2FAthens)
+![Metrics](https://metrics.lecoq.io/iamgiannisx?template=classic&languages=1&gists=1&isocalendar=1&activity=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=https%3A%2F%2Fgiannis.dev&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FAthens)
 
 <!--
-**dgrammatiko/dgrammatiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iamgiannisx/iamgiannisx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
