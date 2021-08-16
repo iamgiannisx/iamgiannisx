@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Giannis's github stats](https://github-readme-stats.vercel.app/api?username=iamgiannisx&show_icons=true&theme=radical)
+<!--![Giannis's github stats](https://github-readme-stats.vercel.app/api?username=iamgiannisx&show_icons=true&theme=radical)-->
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamgiannisx&show_icons=true&theme=tokyonight" />
