@@ -41,8 +41,8 @@ On my website, [thecodebee.com](https://thecodebee.com/), you can learn more abo
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamgiannisx&show_icons=true&theme=dark&locale=en" alt="iamgiannisx" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgiannisx&theme=dark" alt="iamgiannisx" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamgiannisx&show_icons=true&theme=dark&locale=en" alt="iamgiannisx" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamgiannisx&theme=dark" alt="iamgiannisx" />
 </p>
 
 <p align="center">
