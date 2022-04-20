@@ -32,7 +32,7 @@ On my website, [thecodebee.com](https://thecodebee.com/), you can learn more abo
 <a href="https://stackoverflow.com/users/9515448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9515448" height="30" width="40" /></a>
 <a href="https://instagram.com/iamgiannisx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamgiannisx" height="30" width="40" /></a>
 <a href="https://discord.gg/u73UPykn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="u73UPykn" height="30" width="40" /></a>
-<a href="/https://thecodebee.com/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://thecodebee.com/rss/" height="30" width="40" /></a>
+<!--a href="/https://thecodebee.com/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://thecodebee.com/rss/" height="30" width="40" /></a-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
