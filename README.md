@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I'm a freelance developer, digital consultant. I like to make the web fast and build on Jamstack and serverless.
+<h1 align="center">Hi there 👋, I'm Giannis</h1>
+<h3 align="center">I'm a freelance developer, digital consultant. I like to make the web fast and build on Jamstack and serverless.</h3>
 
 My services include:
 
@@ -11,8 +10,6 @@ My services include:
 
 On my website, [thecodebee.com](https://thecodebee.com/), you can learn more about me, read my blog, or contact me for a project. Or, chat with me on [Twitter](https://twitter.com/iamgiannisx)!
 
-<h1 align="center">Hi 👋, I'm Giannis</h1>
-<h3 align="center">I'm a freelance developer, digital consultant. I like to make the web fast and build on Jamstack and serverless.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgiannisx&label=Profile%20views&color=0e75b6&style=flat-square" alt="iamgiannisx" /> </p>
 
