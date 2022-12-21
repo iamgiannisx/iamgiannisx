@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <!--![Giannis's github stats](https://github-readme-stats.vercel.app/api?username=iamgiannisx&show_icons=true&theme=radical)-->
 <p align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamgiannisx&theme=github)
+<![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamgiannisx&theme=github)/>
 </p>
 
 <p align="center">
